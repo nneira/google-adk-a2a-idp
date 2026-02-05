@@ -233,7 +233,7 @@ Ver [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) para:
 
 Mira el video completo donde construyo este sistema:
 
-**[Google ADK + A2A Protocol: Cómo 7 Agentes IA crean un IDP](https://youtube.com/@nicolasneiragarcia)**
+**[Google ADK + A2A Protocol: Cómo 7 Agentes IA crean un IDP](https://youtu.be/wB0ZMerDxN4)**
 
 ---
 
@@ -252,5 +252,3 @@ MIT
 - Email: hola@nicolasneira.com
 
 ---
-
-**Sin humo. Solo sistemas reales.**
