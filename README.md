@@ -2,7 +2,7 @@
 
 **Genera un Internal Developer Platform completo con portal web en ~3 minutos usando 7 agentes IA especializados.**
 
-[![YouTube](https://img.shields.io/badge/YouTube-Ver%20Video-red?logo=youtube)](https://youtube.com/@nicolasneiragarcia)
+[![YouTube](https://img.shields.io/badge/YouTube-Ver%20Video-red?logo=youtube)](https://youtu.be/wB0ZMerDxN4)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
